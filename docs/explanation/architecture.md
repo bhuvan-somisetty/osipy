@@ -99,7 +99,6 @@ osipy/
 │   ├── parameter_map.py  # ParameterMap container
 │   ├── types.py          # Enums and type definitions
 │   ├── exceptions.py     # Custom exception hierarchy
-│   ├── caching.py        # Result caching utilities
 │   └── logging.py        # Logging configuration
 │
 ├── dce/                  # DCE-MRI analysis
